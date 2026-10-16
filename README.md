@@ -12,9 +12,14 @@ I build user-focused software, with experience across backend services, hybrid m
 
 ## Selected projects
 
+- **Kinnect** *(private)* — An AI-assisted social discovery app exploring more meaningful connections through interests, activity, and explainable matching.
+- **Memento App** *(private)* — A location-aware mobile app for capturing and discovering memories, with map-based experiences and media sharing.
+- **Memento** *(private)* — An early Flutter project exploring map-based memory sharing and community interactions.
 - **[Kinnect Toxic Comment Detection API](https://github.com/emreceylantr/kinnect-toxic-api)** — Turkish text classification API using TF-IDF and Logistic Regression.
 - **[3D Face Model Reconstruction](https://github.com/emreceylantr/3dmodelolusturma)** — Computer vision project for generating and viewing 3D face meshes from images or webcam input.
 - **[FriendFinderApp](https://github.com/emreceylantr/FriendFinderApp)** — Java and Spring Boot application project.
+
+*Some projects are private, so their source code and implementation details are not publicly available.*
 
 ## Tech
 
