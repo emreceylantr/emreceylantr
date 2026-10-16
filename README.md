@@ -13,11 +13,11 @@ I build user-focused software, with experience across backend services, hybrid m
 ## Selected projects
 
 - **Kinnect** *(private)* — An AI-assisted social discovery app exploring more meaningful connections through interests, activity, and explainable matching.
-- **Memento App** *(private)* — A location-aware mobile app for capturing and discovering memories, with map-based experiences and media sharing.
-- **Memento** *(private)* — An early Flutter project exploring map-based memory sharing and community interactions.
-- **[Kinnect Toxic Comment Detection API](https://github.com/emreceylantr/kinnect-toxic-api)** — Turkish text classification API using TF-IDF and Logistic Regression.
-- **[3D Face Model Reconstruction](https://github.com/emreceylantr/3dmodelolusturma)** — Computer vision project for generating and viewing 3D face meshes from images or webcam input.
-- **[FriendFinderApp](https://github.com/emreceylantr/FriendFinderApp)** — Java and Spring Boot application project.
+- **Memento App** *(private)* — A location-aware React Native app for capturing and discovering memories, with map-based experiences and media sharing.
+- **Memento Flutter** *(private)* — An early Flutter project exploring map-based memory sharing and community interactions.
+- **[Turkish Toxic Comment Classifier](https://github.com/emreceylantr/turkish-toxic-comment-classifier)** — A Turkish text classification API using TF-IDF and Logistic Regression.
+- **[3D Face Reconstruction](https://github.com/emreceylantr/3d-face-reconstruction)** — A computer vision project for generating and viewing 3D face meshes from images or webcam input.
+- **[Friend Finder App](https://github.com/emreceylantr/friend-finder-app)** — A Java and Spring Boot social networking application.
 
 *Some projects are private, so their source code and implementation details are not publicly available.*
 
