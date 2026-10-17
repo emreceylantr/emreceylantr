@@ -1,37 +1,33 @@
 # Hi, I'm Emre Ceylan 👋
 
-**Computer Engineer · Software Developer · Istanbul, Türkiye**
+**Computer Engineer · Full-Stack & Mobile Software Developer · Istanbul, Türkiye**
 
-I build user-focused software, with experience across backend services, hybrid mobile apps, and data-driven systems. I enjoy taking ideas from a product need through implementation, integration, and real-world testing.
+I build user-focused software across mobile applications, backend microservices, and AI-driven systems. I enjoy taking ideas from an initial product concept through full-stack implementation, system integration, and real-world beta testing.
 
-## What I've worked on
+## Featured Ecosystem: Kinnect
 
-- **Backend and geospatial data:** During my internship with Istanbul Metropolitan Municipality, I contributed to a GIS web application, building asynchronous services with Python and FastAPI and working with MongoDB-based spatial data.
-- **Logistics software:** At Lobitek, I explored warehouse, inventory, barcode, shipment, and order-management workflows, including ERP integrations and reporting.
-- **Mobile social platform:** Built a Flutter app concept for connecting people through sports, concerts, and social activities, with Supabase authentication, real-time messaging, and peer-to-peer video calling. Ran beta testing through TestFlight.
+- **[Kinnect](https://github.com/emreceylantr/kinnect)** — AI-powered social discovery & explainable matching mobile application built with Flutter, Supabase Edge Functions, Claude Vision, ZegoCloud WebRTC, Spotify/Apple Music integration, and BLE proximity discovery.
+- **[Kinnect Admin Dashboard](https://github.com/emreceylantr/kinnect-admin)** — Cross-platform desktop & web moderation console for real-time user analytics, AI compatibility auditing, and community safety management.
+- **[Turkish Toxic Comment Classifier](https://github.com/emreceylantr/turkish-toxic-comment-classifier)** — Real-time NLP content moderation microservice using TF-IDF and Logistic Regression (90.72% accuracy across 77,800 Turkish comments).
 
-## Selected projects
+## Selected Engineering Projects
 
-- **Kinnect** *(private)* — An AI-assisted social discovery app exploring more meaningful connections through interests, activity, and explainable matching.
-- **Memento App** *(private)* — A location-aware React Native app for capturing and discovering memories, with map-based experiences and media sharing.
-- **Memento Flutter** *(private)* — An early Flutter project exploring map-based memory sharing and community interactions.
-- **[Turkish Toxic Comment Classifier](https://github.com/emreceylantr/turkish-toxic-comment-classifier)** — A Turkish text classification API using TF-IDF and Logistic Regression.
-- **[3D Face Reconstruction](https://github.com/emreceylantr/3d-face-reconstruction)** — A computer vision project for generating and viewing 3D face meshes from images or webcam input.
-- **[Friend Finder App](https://github.com/emreceylantr/friend-finder-app)** — A Java and Spring Boot social networking application.
+- **[3D Face Reconstruction](https://github.com/emreceylantr/3d-face-reconstruction)** — Computer vision pipeline for reconstructing and rendering interactive 3D face meshes from 2D photos or live webcam streams using 3DDFA_V2, MediaPipe, Open3D, and Three.js.
+- **[Friend Finder App](https://github.com/emreceylantr/friend-finder-app)** — Full-stack Java & Spring Boot social networking platform featuring custom relationship graphs, direct messaging, photo galleries, and user management.
+- **Memento** *(Private)* — Location-aware mobile application for capturing and discovering geo-anchored memories through interactive map experiences.
 
-*Some projects are private, so their source code and implementation details are not publicly available.*
+## Industry Experience
 
-## Tech
+- **Backend & Geospatial Systems (Istanbul Metropolitan Municipality):** Contributed to an enterprise GIS web platform, engineering asynchronous Python/FastAPI services and querying spatial datasets stored in MongoDB.
+- **Enterprise Logistics Software (Lobitek):** Worked on warehouse, inventory, barcode, shipment, and order-management workflows with ERP integrations and operational reporting.
 
-`Dart` · `Java` · `Python` · `Flutter` · `FastAPI` · `Supabase` · `Firebase` · `MongoDB` · `MySQL` · `Git`
+## Tech Stack
+
+`Dart` · `Flutter` · `Python` · `FastAPI` · `Flask` · `Java` · `Spring Boot` · `TypeScript` · `Supabase` · `PostgreSQL` · `Firebase` · `MongoDB` · `Scikit-Learn` · `Git`
 
 ## Education
 
-**B.Sc. in Computer Engineering** — Tekirdağ Namık Kemal University, 2022–2026
-
-## Languages
-
-Turkish (native) · English (B2) · German (A1)
+**B.Sc. in Computer Engineering** — Tekirdağ Namık Kemal University (2022–2026)
 
 ---
 
